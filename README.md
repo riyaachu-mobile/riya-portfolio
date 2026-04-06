@@ -58,7 +58,8 @@ I’m passionate about:
 
 * Migrated and enhanced a complex app using Flutter
 * Implemented CI/CD pipelines and automated deployments
-* Built AI-powered virtual assistant → reduced support queries by 15%
+* Worked on the **Voice Response** feature of the mobile app.  
+* Integrated a **GenAI Chatbot** into the mobile app, enhancing user engagement with AI-powered conversational features.  
 
 ---
 
@@ -138,7 +139,7 @@ Worked on apps like:
 * https://apps.apple.com/us/app/myvca/id1172429469
 
 * https://apps.apple.com/us/app/lifemd-telehealth/id1584079757
-
+  
 ## 📫 Contact Me
 
 📧 [achuriya2@gmail.com](mailto:achuriya2@gmail.com)
